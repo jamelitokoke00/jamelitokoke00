@@ -1,5 +1,12 @@
 ## Hi there, I am Jamelito Koke 👋
 
+<h3 align="center">A software developer in Cometec </h3>
+
+## 💬 Talk with me 
+- Backend web development(nodejs,php,laravel,python,django,wordpress,AI)
+- Frontend web development(vue,uniapp,react,next,javascript)
+- Cool idea about production
+
 <!--
 **jamelitokoke00/jamelitokoke00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
